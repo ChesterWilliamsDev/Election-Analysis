@@ -31,7 +31,7 @@ The analysis of the election shows that:
 * This election audit has been commissioned by the Colorodo Board of Elections to develop automations in the tabulation of votes for future local, congressional, and senatorial elections. 
 
 ## Election-Audit Results
-
+https://github.com/ChesterWilliamsDev/Election-Analysis/blob/main/analysis/election_results.pdf
 * How many votes were cast in this congressional election? - 369,711 votes were cast. 
 * 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
